@@ -1,3 +1,5 @@
+The design uses Magic, Irsim, and Modelsim for layout and simulation. 
+
 The project folder contains the following subfolders:
 - Big_2_Verilog: Contains all the Verilog files and testbenches for Modelsim pre and post-synthesis. 
 		     Also included are the Synthesis and Encounter compile scripts plus the pre-padframe 
